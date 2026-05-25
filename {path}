@@ -1,0 +1,1 @@
+#fix for formbrick issue #3302 where Internal Server Errors still show success toast stead of error notifications
